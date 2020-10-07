@@ -7,10 +7,6 @@
 - 🥅 2020 Goals: Land my first software development role
 - ⚡ Fun fact: Love going to the gym and drinking cofee
 
-### Connect with me:
-
-[<img align="left" alt="ruben-botha | LinkedIn" width="22px" src="https://www.linkedin.com/in/ruben-botha-746b911b4/" />][linkedin]
-<br />
 
 ### Languages and Tools:
 
@@ -31,6 +27,4 @@
 <br />
 
 ---
-
-
 
