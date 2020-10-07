@@ -3,9 +3,9 @@
 ## I'm a Software Developer
 
 - 🔭 Graduate of CodeClan Edinburgh's software development course
-- 🌱 I’m currently learning as much as I can and improving every day.
+- 🌱 I’m currently learning as much as I can and improving every day
 - 🥅 2020 Goals: Land my first software development role
-- ⚡ Fun fact: Love going to the gym and drinking cofee
+- ⚡ Fun fact: Love going to the gym and drinking coffee
 
 
 ### Connect with me
