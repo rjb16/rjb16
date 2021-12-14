@@ -3,7 +3,7 @@
 ## I'm a Software Developer
 - Software Engineer at Relaymed
 - 🔭 Graduate of CodeClan Edinburgh's software development course
-- ⚡ Fun fact: Love going to the gym and drinking coffee
+
 
 
 ### Connect with me
