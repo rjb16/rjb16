@@ -12,7 +12,7 @@
 
 ### Skills
 
-- 💬 Languages: C#, Ruby, JavaScript, Java, SQL, HTML, CSS
+- 💬 Languages: C#, JavaScript, Ruby, Java, SQL, HTML, CSS
 - Frameworks: .Net, React, Vue, Spring, Node/Express, Sinatra,
 - Software practices: Agile, Test Driven Development, Object oriented programming
 - Additional technologies: Git, GitHub, MongoDB, Insomnia, PostgreSQL, Postman
